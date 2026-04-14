@@ -1,1 +1,3 @@
-[dreamery-barbershop.zip](https://github.com/user-attachments/files/26675386/dreamery-barbershop.zip)
+# Oxc Types
+
+Typescript definitions for Oxc AST nodes.

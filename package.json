@@ -1,0 +1,35 @@
+{
+  "name": "@oxc-project/types",
+  "version": "0.124.0",
+  "description": "Types for Oxc AST nodes",
+  "keywords": [
+    "AST",
+    "Parser"
+  ],
+  "homepage": "https://oxc.rs",
+  "bugs": "https://github.com/oxc-project/oxc/issues",
+  "license": "MIT",
+  "author": "Boshen and oxc contributors",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oxc-project/oxc.git",
+    "directory": "npm/oxc-types"
+  },
+  "funding": {
+    "url": "https://github.com/sponsors/Boshen"
+  },
+  "files": [
+    "types.d.ts"
+  ],
+  "type": "module",
+  "types": "types.d.ts"
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyAOuA3zjzQyhfkUOfWUwHlJdztbDkFVkU4",
+  authDomain: "dreamery-system.firebaseapp.com",
+  projectId: "dreamery-system",
+  storageBucket: "dreamery-system.firebasestorage.app",
+  messagingSenderId: "789627361384",
+  appId: "1:789627361384:web:d249c6224d8a61fa0f83dd",
+  measurementId: "G-JRYNXJBPPT"
+};
